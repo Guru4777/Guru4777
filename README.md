@@ -1,9 +1,9 @@
 # Hi there! I'm Guru Devaraj 👋
 ## Software Tester | Test Automation Engineer
-Passionate software tester with 4 years of experience in manual and automation testing using Selenium, Katalon Studio, and various project and bug tracking tools such as Jira, Asana, Bugzilla, and ClickUp. I hold a B.Tech degree in Computer Science.
+Passionate software tester with 6 years of experience in manual and automation testing using Katalon studio, Selenium(python), and various project and bug tracking tools such as Jira, Asana, Bugzilla, and ClickUp. I hold a B.Tech degree in Computer Science.
 
 ## 💼 Professional Experience
-Software Tester at XYZ Company (2019 - Present)
+Software Tester at Brand1/2 Company (2019-2022)
 Collaborated with cross-functional teams to gather and analyze project requirements.
 Developed and executed comprehensive manual test cases to ensure software quality.
 Performed functional, regression, integration, and system testing.
